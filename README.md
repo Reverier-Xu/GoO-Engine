@@ -1,4 +1,4 @@
-![](/GoOEngine.svg)
+![GoO Engine](/GoOEngine.svg)
 
 A simple Lua/Python script engine in C++.
 
